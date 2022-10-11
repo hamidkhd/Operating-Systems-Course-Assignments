@@ -1,0 +1,12 @@
+[submodule "OperatingSystem-XV6"]
+	path = OperatingSystem-XV6
+	url = https://github.com/hamidkhd/OperatingSystem-XV6
+[submodule "OperatingSystem-MobilePricePrediction"]
+	path = OperatingSystem-MobilePricePrediction
+	url = https://github.com/hamidkhd/OperatingSystem-MobilePricePrediction
+[submodule "OperatingSystem-StoreSearch"]
+	path = OperatingSystem-StoreSearch
+	url = https://github.com/hamidkhd/OperatingSystem-StoreSearch
+[submodule "OperatingSystem-DotsAndBoxes"]
+	path = OperatingSystem-DotsAndBoxes
+	url = https://github.com/hamidkhd/OperatingSystem-DotsAndBoxes
